@@ -15,6 +15,10 @@ mkdir build & cd build & cmake ..
 
 Или же воспользоваться компилятором GNU MinGW:  
 ```  
-g++ main.cpp -std=c++17 -o application.exe   
-Запустить исполняемый файл application.exe    
+g++ main.cpp -std=c++17 -o application.exe  
 ```  
+Запустить исполняемый файл:  
+```  
+application.exe   
+```  
+
